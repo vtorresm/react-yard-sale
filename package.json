@@ -1,0 +1,19 @@
+{
+  "name": "react-yard-sale",
+  "version": "1.0.0",
+  "description": "react yard sale",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Victor Torres <vatorresm88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
