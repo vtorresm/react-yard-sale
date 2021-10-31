@@ -1,6 +1,6 @@
 import React from 'react';
 
-import OrderItem from '../components/OrderItem';
+import OrderItem from '../components/OrdeItem';
 
 import Menu from '../components/Menu';
 

@@ -1,8 +1,11 @@
-import React, { Children } from 'react';
+import React from 'react';
 
-const Layout = ({children}) => {
+import Header from '../components/Header';
+
+const Layout = ({ children }) => {
   return (
-    <div className="Layout">
+    <div className='Layout'>
+      <Header />
       {children}
     </div>
   );
